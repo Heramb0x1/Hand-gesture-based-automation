@@ -9,6 +9,3 @@
 | MPU6050 | Accelerometer |
 | ESP8266 | Microcontroller |
 | Arduino IDE | Compiler |
-
-[^1]: Project Idea & prototype reserves with us, if anyone wanna collaborate
-[^1]: dm me! ;)
