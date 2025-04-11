@@ -2,7 +2,8 @@
 **Hand Gesture based controlling your pc's automation**
 
 > MY PROJECT BASED LEARNING PROTOTYPE
-![claw](claw-home-automation-based.jpg)
+
+<img src="claw-home-automation-based.jpg" alt="claw" width="300"/>
 
 | Component | Description |
 | ----------- | ----------- |
